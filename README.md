@@ -120,7 +120,7 @@ Examples from <a href="https://arxiv.org/abs/2512.02556">DeepSeek-V3.2: Pushing 
 
 ```bash
 # Clone repository
-git clone https://github.com/HKUDS/VeritasDeck.git
+git clone https://github.com/MdxShad/VeritasDeck/
 cd VeritasDeck
 
 # Create and activate conda environment
@@ -198,18 +198,7 @@ Or start services independently:
 
 # Terminal 2: Start frontend
 ./scripts/start_frontend.sh
-```
 
-Access the web interface at `http://localhost:5173` (default)
-
-<div align="center">
-<table>
-<tr>
-<td><img src="assets/ui_1.png" width="420"/></td>
-<td><img src="assets/ui_2.png" width="420"/></td>
-</tr>
-</table>
-</div>
 
 ---
 
@@ -349,13 +338,8 @@ VeritasDeck/
 
 ---
 
-## 🙏 Related Open-Sourced Projects
 
-- **[LightRAG](https://github.com/HKUDS/LightRAG)**: Graph-Empowered RAG
-- **[RAG-Anything](https://github.com/HKUDS/RAG-Anything)**: Multi-Modal RAG
-- **[VideoRAG](https://github.com/HKUDS/VideoRAG)**: RAG with Extremely-Long Videos
 
----
 
 <div align="center">
 
@@ -371,3 +355,4 @@ VeritasDeck/
   <em> ❤️ Thanks for visiting ✨ VeritasDeck!</em><br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HKUDS.VeritasDeck&style=for-the-badge&color=00d4ff" alt="Views">
 </p>
+
