@@ -1,0 +1,25 @@
+{
+  "config": {
+    "input_path": "C:\\Users\\shaad\\Downloads\\Paper2Slides-main\\Paper2Slides-main\\sources\\uploads\\72c14aaa-dde8-4a48-802f-8fa6ca91f01e\\Tribal_Urbanization_10m_Answer.pdf",
+    "pdf_paths": [
+      "C:\\Users\\shaad\\Downloads\\Paper2Slides-main\\Paper2Slides-main\\sources\\uploads\\72c14aaa-dde8-4a48-802f-8fa6ca91f01e\\Tribal_Urbanization_10m_Answer.pdf"
+    ],
+    "content_type": "paper",
+    "output_type": "slides",
+    "style": "doraemon",
+    "custom_style": null,
+    "slides_length": "medium",
+    "poster_density": "medium",
+    "fast_mode": true
+  },
+  "created_at": "2025-12-10T16:26:37.031554",
+  "stages": {
+    "rag": "completed",
+    "summary": "completed",
+    "plan": "failed",
+    "generate": "pending"
+  },
+  "session_id": "72c14aaa-dde8-4a48-802f-8fa6ca91f01e",
+  "updated_at": "2025-12-10T16:28:15.418005",
+  "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+}

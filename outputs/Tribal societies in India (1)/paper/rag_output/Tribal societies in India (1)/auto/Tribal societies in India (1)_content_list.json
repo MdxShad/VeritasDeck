@@ -1,0 +1,835 @@
+[
+    {
+        "type": "text",
+        "text": "Threats to Tribal Languages in India ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            139,
+            675,
+            165
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            183,
+            275,
+            203
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "India is one of the most linguistically diverse countries in the world. The People’s Linguistic Survey of India (PLSI 2013) recorded 780 languages and 86 scripts, yet many of these are spoken by tiny populations and are not officially recognised. UNESCO’s Atlas of the World’s Languages in Danger lists 197 Indian languages in various stages of endangerment: 81 vulnerable, 62 definitely endangered, 7 severely endangered, 42 critically endangered and 5 already extinct . Over the last five decades1 India has lost roughly 250 languages ; linguist G.N.   Devy warns that about 400 more could1 disappear in the near future $^ 2$ . The vast majority of endangered tongues are tribal. Because tribal communities form only about $8 . 6 \\%$ of India’s population, their languages are often invisible in national policies and census operations that only list languages spoken by more than 10 000 people . This3 note summarises the reasons why tribal languages are threatened, the consequences of their decline, government efforts to conserve them, and recommendations for revitalisation. ",
+        "bbox": [
+            127,
+            218,
+            872,
+            393
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Visualising endangerment levels ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            413,
+            418,
+            430
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The bar chart below summarises UNESCO’s categories of endangered languages in India, showing that a large number fall into the “vulnerable” and “definitely endangered” categories but many have reached the critical stage or become extinct. ",
+        "bbox": [
+            127,
+            445,
+            872,
+            492
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ce7656c7f4437daef9f39be79602ee7b46a27a534d12e7e2d94576ca2f20d58.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            245,
+            513,
+            754,
+            787
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reasons for the decline of tribal languages ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            806,
+            616,
+            827
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dominant languages in education ",
+        "text_level": 1,
+        "bbox": [
+            131,
+            844,
+            430,
+            859
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Indian schools often use state or national languages (Hindi, English, Odia, etc.) as the medium of instruction, leaving tribal children unable to understand classroom content. In Odisha, for example, ",
+        "bbox": [
+            129,
+            873,
+            873,
+            904
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "1 ",
+        "bbox": [
+            494,
+            953,
+            504,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "ChatGPT ",
+        "bbox": [
+            127,
+            89,
+            302,
+            117
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "tribal students are taught in Odia, which is not their mother tongue; textbooks contain contexts unfamiliar to them, leading to poor comprehension and early drop‑out rates . Nationwide, schooling4 in dominant languages encourages children to adopt these languages and abandon their own. ",
+        "bbox": [
+            129,
+            85,
+            870,
+            133
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Socio‑economic pressure and upward mobility ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            152,
+            537,
+            168
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many tribal parents believe that speaking a dominant language opens doors to jobs and social mobility. A study on north‑eastern languages notes that better economic prospects incentivise shifts to larger languages . Ajit   Mohanty calls this phenomenon “linguicide”—a process in which5 subordinate languages withdraw into the home while major languages occupy domains of education, trade and power . The example of Kond women in Odisha illustrates this: their Kui language was 6 pushed out of markets, depriving them of bargaining power and forcing them to use Odia $^ 7$ . ",
+        "bbox": [
+            127,
+            183,
+            872,
+            278
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Market use and simplicity ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            297,
+            359,
+            313
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "G.N. Devy argues that languages with greater market use and simpler syntactic structures are preferred for communication. Languages used in trading centres and government offices have higher economic value, prompting speakers of smaller languages to shift towards them .8 ",
+        "bbox": [
+            129,
+            329,
+            870,
+            375
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Political domination and lack of official recognition ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            394,
+            583,
+            412
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dominant languages enjoy state patronage through official status (e.g., in the Eighth Schedule) and media coverage. Only a few tribal languages such as Bodo and Santali have secured this status after long political struggles , while hundreds of others remain unrecognised and therefore excluded from9 administration and education. Since 1971, the Census has dropped languages with fewer than 10 000 speakers from its list , rendering most tribal languages invisible.3 ",
+        "bbox": [
+            129,
+            425,
+            872,
+            504
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Absence of written literature and literacy materials ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            524,
+            586,
+            541
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many tribal languages are oral. A north‑eastern study observes that languages without books, poetry or documented folklore struggle to maintain cultural significance and to be transmitted across generations . The absence of alphabets, dictionaries and teaching materials reinforces their10 marginalisation. ",
+        "bbox": [
+            129,
+            555,
+            872,
+            618
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Migration, urbanisation and intergenerational shift ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            638,
+            586,
+            655
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Urban migration and intermarriage with speakers of dominant languages accelerate language shift. G.N. Devy notes that when a language dies its speakers first migrate to another language and then physically migrate to another region . Younger tribal people often adopt regional or national11 languages to fit into urban environments, leaving their mother tongues behind. ",
+        "bbox": [
+            129,
+            669,
+            870,
+            731
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Illustration of key threats ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            751,
+            359,
+            768
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The following concept map summarises these interconnected threats: ",
+        "bbox": [
+            127,
+            782,
+            626,
+            796
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            494,
+            953,
+            504,
+            963
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/38893c459d6e96b242bc1bdbf86d4540f6847cda36f4c6bdaab0fd648f89dce5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            208,
+            83,
+            788,
+            361
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Consequences of language loss ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            381,
+            485,
+            401
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cultural and knowledge erosion ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            418,
+            413,
+            435
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Languages encapsulate unique worldviews, ecological knowledge, folklore and rituals. When a language disappears, a unique way of looking at the world vanishes . Tribal languages carry 11 indigenous knowledge about medicinal plants, agro‑practices, kinship and cosmology; their loss erodes this heritage. The People’s Linguistic Survey warns that India has already lost 220 languages since 1961 and may lose many more.2 ",
+        "bbox": [
+            129,
+            449,
+            872,
+            527
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Social disintegration and migration ",
+        "text_level": 1,
+        "bbox": [
+            131,
+            546,
+            442,
+            564
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Language loss often precedes and accompanies migration, as speakers move to areas where dominant languages prevail . In the process they abandon traditional livelihoods and cultural practices, leading11 to disintegration of community networks and greater assimilation into mainstream society. ",
+        "bbox": [
+            129,
+            579,
+            872,
+            625
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Educational disadvantage ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            644,
+            359,
+            661
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Children educated in unfamiliar languages face poor learning outcomes and high drop‑out rates. When mother tongues are ignored, students lose interest in schooling and become alienated from their culture . Monolingual curricula also undermine self‑esteem and identity formation.4 ",
+        "bbox": [
+            129,
+            675,
+            870,
+            721
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Economic marginalisation ",
+        "text_level": 1,
+        "bbox": [
+            131,
+            741,
+            361,
+            758
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Exclusion of tribal languages from markets and administration deprives speakers of bargaining power. Mohanty notes that when languages like Kui are pushed out of local trade, women lose their economic agency and must transact in dominant tongues $^ 7$ . The marginalisation of languages is intertwined with poverty and lack of political voice $6$ . ",
+        "bbox": [
+            129,
+            772,
+            870,
+            835
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "3 ",
+        "bbox": [
+            494,
+            953,
+            504,
+            963
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cultural homogenisation ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            86,
+            351,
+            103
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As tribal languages vanish, cultural practices such as festivals, songs and oral histories also fade. Communities assimilate into dominant cultures, leading to homogenisation and the loss of India’s plurilingual heritage. ",
+        "bbox": [
+            129,
+            117,
+            870,
+            164
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Government and community efforts to preserve tribal languages ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            184,
+            867,
+            205
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Scheme for Protection and Preservation of Endangered Languages (SPPEL) ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            221,
+            786,
+            237
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Government of India launched SPPEL in 2013 to document languages spoken by fewer than 10 000 people. The programme commissions linguistic institutions to prepare grammars, dictionaries and ethno‑linguistic profiles for each language . As of 2020, over 100 endangered languages have been12 identified and documentation work is ongoing. ",
+        "bbox": [
+            129,
+            250,
+            872,
+            315
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Multi‑lingual education (MLE) programmes ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            334,
+            510,
+            350
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Several states have introduced Mother Tongue Based Multi‑Lingual Education. Odisha’s MLE programme teaches tribal children in their mother tongue during early grades and gradually introduces Odia and English; the state has appointed 3 385 tribal language teachers and published dictionaries for 20 tribal languages . However, the programme has faced challenges such as insufficient teacher 13 training and a translation‑only approach without developing original content .14 ",
+        "bbox": [
+            129,
+            365,
+            872,
+            443
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recognition under the Eighth Schedule ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            463,
+            477,
+            480
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Through political mobilisation, Bodo (2003) and Santali (2003) were added to the Eighth Schedule, granting them official status 9 . Recognition provides access to schooling, media and administration and helps revitalise language use. ",
+        "bbox": [
+            129,
+            494,
+            870,
+            542
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Community‑driven initiatives ",
+        "text_level": 1,
+        "bbox": [
+            131,
+            561,
+            389,
+            577
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Grass‑roots movements have shown creative ways to revitalise languages. In Jharkhand, the Asur Mobile Radio broadcasts stories and songs in the endangered Asur language, raising pride among youth . Cultural festivals, community radio and digital archives (e.g., smartphone apps for Gondi and15 Ho) create new domains of use. Tribal youth are using social media to write poetry and produce music videos in their mother tongues. ",
+        "bbox": [
+            129,
+            592,
+            872,
+            670
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recommendations ",
+        "text_level": 1,
+        "bbox": [
+            131,
+            692,
+            342,
+            711
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Institutional support and recognition: Establish national and state‑level committees to identify1. endangered tribal languages and grant them institutional backing. Amend the Census and Eighth Schedule criteria so that languages with small speaker populations are documented and recognised. ",
+        "bbox": [
+            163,
+            727,
+            870,
+            789
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mother‑tongue education: Expand MLE programmes beyond primary schools; develop2. curricula, textbooks and learning materials in tribal languages rather than merely translating existing content. Train teachers from within the community and provide scholarships to encourage literacy in mother tongues. ",
+        "bbox": [
+            161,
+            809,
+            870,
+            872
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            494,
+            953,
+            504,
+            963
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Documentation and publication: Prepare descriptive grammars, dictionaries and3. orthographies with community participation. For unwritten languages, adopt or design scripts and promote literacy campaigns. Digitise existing folk tales, songs and oral histories; integrate them into school curricula and community libraries. ",
+        "bbox": [
+            163,
+            85,
+            870,
+            148
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Language in public domains: Encourage the use of tribal languages in governance, local4. courts, markets and media. Provide incentives to businesses that use indigenous languages in signage and communication. Radio and television programmes, podcasts and theatre in tribal languages can help normalise their use. ",
+        "bbox": [
+            163,
+            167,
+            870,
+            230
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Economic empowerment: Link language preservation with livelihoods by promoting cultural5. tourism, handicrafts, traditional healing and environmental knowledge. Recognise intellectual property rights for tribal knowledge and ensure revenue flows back to language communities. ",
+        "bbox": [
+            163,
+            249,
+            870,
+            297
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cultural and entertainment programmes: Organise festivals, storytelling sessions, music and6. dance competitions in tribal languages. Support community radios (as in the Asur example) and digital platforms where young speakers can create and share content. ",
+        "bbox": [
+            163,
+            316,
+            870,
+            362
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Monitoring and research: Conduct periodic surveys to track language vitality. Encourage7. universities and linguistic departments to undertake participatory research with tribal communities and disseminate findings in accessible formats. ",
+        "bbox": [
+            163,
+            381,
+            870,
+            428
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Contemporary relevance and the Yuelu Declaration ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            449,
+            710,
+            469
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The UNESCO Yuelu Declaration (Changsha, 2018/2019) calls on governments worldwide to protect linguistic diversity and promote language transmission. It emphasises that languages are vectors of cultural heritage and sustainable development . In the context of rapid digitalisation,16 pandemic‑induced disruptions and climate change, preserving tribal languages is crucial for maintaining ecological knowledge and resilience. The National Education Policy (NEP   2020) also recognises the importance of mother‑tongue instruction and proposes creating digital repositories of endangered languages. ",
+        "bbox": [
+            127,
+            485,
+            872,
+            596
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            617,
+            255,
+            637
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tribal languages embody the cultural memory, knowledge systems and identity of India’s indigenous peoples. Despite constitutional promises, socio‑economic pressures, education policies, political domination and lack of recognition have placed many of these languages on the brink of extinction. The loss of a language is more than a loss of words—it is a loss of a worldview and a way of relating to the environment. Government schemes such as SPPEL and MLE, along with community initiatives like Asur Mobile Radio, demonstrate that revitalisation is possible. A concerted effort involving recognition, education reform, documentation, and cultural and economic empowerment can ensure that India’s tribal languages not only survive but thrive in the 21st century. ",
+        "bbox": [
+            129,
+            652,
+            872,
+            781
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "1 12 drarvindendangermentoflanguagesindiafinal.pdf https://www.languageinindia.com/jan2022/drarvindendangermentoflanguagesindiafinal.pdf ",
+        "bbox": [
+            127,
+            818,
+            678,
+            847
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "5 ",
+        "bbox": [
+            494,
+            953,
+            504,
+            963
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Seven decades after independence, many tribal languages in India face extinction 2 3 13 14 15 ",
+        "bbox": [
+            124,
+            85,
+            836,
+            103
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "threat ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            103,
+            174,
+            115
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "https://www.downtoearth.org.in/governance/seven-decades-after-independence-many-tribal-languages-in-india-faceextinction-threat-73071 ",
+        "bbox": [
+            124,
+            118,
+            828,
+            146
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "multilingual-education-mle-for-tribal-children-of-odisha.pdf ",
+        "bbox": [
+            141,
+            155,
+            578,
+            170
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "https://repository.education.gov.in/wp-content/uploads/2017/07/multilingual-education-mle-for-tribal-children-of-odisha.pdf ",
+        "bbox": [
+            131,
+            173,
+            872,
+            185
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 2-Sunipa-Ghosh-Dastidar-Dr.-Rajesh-Kumar-Saha.pdf10 https://tssreview.in/wp-content/uploads/2025/09/2-Sunipa-Ghosh-Dastidar-Dr.-Rajesh-Kumar-Saha.pdf ",
+        "bbox": [
+            127,
+            196,
+            739,
+            225
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 7 Languages, inequality and marginalization: implications of the double divide in Indian 9   \nmultilingualism   \nhttps://ajitmohanty.org/docs/2/5.pdf ",
+        "bbox": [
+            127,
+            235,
+            818,
+            281
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Coronavirus: India’s unplanned lockdown unleashed fresh hell for its Adivasis11 https://scroll.in/article/981519/coronavirus-indias-unplanned-lockdown-unleashed-fresh-hell-for-its-adivasis ",
+        "bbox": [
+            126,
+            291,
+            766,
+            321
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(PDF) Strategies for Language Diversity Conservation from the Perspective of Transitivity: A Case Study of16 Yuelu Declaration ",
+        "bbox": [
+            126,
+            330,
+            904,
+            360
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "https://www.researchgate.net/publication/ 388339947_Strategies_for_Language_Diversity_Conservation_from_the_Perspective_of_Transitivity_A_Case_Study_of_Yuelu_Declaration ",
+        "bbox": [
+            129,
+            363,
+            924,
+            391
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "6 ",
+        "bbox": [
+            494,
+            953,
+            504,
+            963
+        ],
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "config": {
+    "input_path": "C:\\Users\\shaad\\Downloads\\Paper2Slides-main\\Paper2Slides-main\\sources\\uploads\\53158b1b-5992-47d5-adcc-1f9c2727af9e\\Tribal societies in India (1).pdf",
+    "pdf_paths": [
+      "C:\\Users\\shaad\\Downloads\\Paper2Slides-main\\Paper2Slides-main\\sources\\uploads\\53158b1b-5992-47d5-adcc-1f9c2727af9e\\Tribal societies in India (1).pdf"
+    ],
+    "content_type": "paper",
+    "output_type": "slides",
+    "style": "doraemon",
+    "custom_style": null,
+    "slides_length": "medium",
+    "poster_density": "medium",
+    "fast_mode": true
+  },
+  "created_at": "2025-12-10T15:42:59.384146",
+  "stages": {
+    "rag": "completed",
+    "summary": "completed",
+    "plan": "failed",
+    "generate": "pending"
+  },
+  "session_id": "53158b1b-5992-47d5-adcc-1f9c2727af9e",
+  "updated_at": "2025-12-10T15:54:07.898187",
+  "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+}
